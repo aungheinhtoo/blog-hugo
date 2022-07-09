@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://62c96411c9d5720007a30598--melodious-scone-e46ab2.netlify.app/'
 languageCode = 'en-us'
 title = 'PaperMod Blog'
 theme = 'PaperMod'
