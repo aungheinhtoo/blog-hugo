@@ -1,4 +1,4 @@
-baseURL = 'https://melodious-scone-e46ab2.netlify.app/'
+baseURL = 'https://blog.aungheinhtoo.ml/'
 languageCode = 'en-us'
 title = 'PaperMod Blog'
 theme = 'PaperMod'
