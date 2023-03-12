@@ -1,4 +1,4 @@
-baseURL = 'https://blog.aungheinhtoo.ml/'
+baseURL = 'https://aungheinhtoo.github.io/blog-hugo/'
 languageCode = 'en-us'
 title = 'PaperMod Blog'
 theme = 'PaperMod'

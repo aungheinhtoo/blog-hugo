@@ -1,0 +1,8 @@
+{
+  "name": "blog-hugo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aungheinhtoo/blog-hugo.git",
+  "author": "Aung Hein Htoo <aungheinhtoo@outlook.com>",
+  "license": "MIT"
+}
